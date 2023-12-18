@@ -28,3 +28,8 @@ function topo(){
     }
 
 //Ativar alert no botão cadastrar
+
+function cadastro() {
+    alert("Cadastrado com sucesso!");
+    window.location.href = "index.html";
+    }
